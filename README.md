@@ -2,6 +2,10 @@
 
 This repository hosts the code and documentation for a project in the finance domain, specifically focusing on customer segmentation and churn prediction for a bank. We have utilized machine learning techniques to accurately identify customers at risk of churn and implemented advanced algorithms and predictive analytics to target high-risk customers and proactively mitigate churn. Through our efforts, we achieved an impressive reduction in losses up to 76%.
 
+- **Tableau Presentation:** [LINK](https://public.tableau.com/app/profile/abhishek.suman6184/viz/cscp/Story1)
+- **Dataset :** [LINK](https://www.kaggle.com/datasets/rjmanoj/credit-card-customer-churn-prediction)
+
+
 ## Tableau Presentation
 
 For a comprehensive visualization of our findings and insights, you can access our Tableau presentation [here](https://public.tableau.com/app/profile/abhishek.suman6184/viz/cscp/Story1).
